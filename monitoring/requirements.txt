@@ -1,0 +1,8 @@
+
+APScheduler==3.11.0
+fake-useragent==2.2.0
+httpx==0.28.1
+dramatiq[rabbitmq]==1.18.0
+pydantic-settings==2.9.1
+python-dotenv==1.1.0
+SQLAlchemy[asyncio]==2.0.41
