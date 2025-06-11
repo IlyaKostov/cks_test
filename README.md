@@ -16,8 +16,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone
-https://github.com/IlyaKostov/cks_test https://github.com/IlyaKostov/cks_test.git
+git clone https://github.com/IlyaKostov/cks_test.git
 cd cks_test
 ```
 
